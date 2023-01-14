@@ -1,0 +1,142 @@
+Sat Jan 14 14:02:38 2023 | SUCCESS | res.planet | Tatooine | ID_SW - 1 | ID_Odoo - 1549
+Sat Jan 14 14:02:40 2023 | SUCCESS | res.planet | Alderaan | ID_SW - 2 | ID_Odoo - 1550
+Sat Jan 14 14:02:42 2023 | SUCCESS | res.planet | Yavin IV | ID_SW - 3 | ID_Odoo - 1551
+Sat Jan 14 14:02:44 2023 | SUCCESS | res.planet | Hoth | ID_SW - 4 | ID_Odoo - 1552
+Sat Jan 14 14:02:46 2023 | SUCCESS | res.planet | Dagobah | ID_SW - 5 | ID_Odoo - 1553
+Sat Jan 14 14:02:49 2023 | SUCCESS | res.planet | Bespin | ID_SW - 6 | ID_Odoo - 1554
+Sat Jan 14 14:02:51 2023 | SUCCESS | res.planet | Endor | ID_SW - 7 | ID_Odoo - 1555
+Sat Jan 14 14:02:53 2023 | SUCCESS | res.planet | Naboo | ID_SW - 8 | ID_Odoo - 1556
+Sat Jan 14 14:02:55 2023 | SUCCESS | res.planet | Coruscant | ID_SW - 9 | ID_Odoo - 1557
+Sat Jan 14 14:02:57 2023 | SUCCESS | res.planet | Kamino | ID_SW - 10 | ID_Odoo - 1558
+Sat Jan 14 14:02:59 2023 | SUCCESS | res.planet | Geonosis | ID_SW - 11 | ID_Odoo - 1559
+Sat Jan 14 14:03:01 2023 | SUCCESS | res.planet | Utapau | ID_SW - 12 | ID_Odoo - 1560
+Sat Jan 14 14:03:04 2023 | SUCCESS | res.planet | Mustafar | ID_SW - 13 | ID_Odoo - 1561
+Sat Jan 14 14:03:06 2023 | SUCCESS | res.planet | Kashyyyk | ID_SW - 14 | ID_Odoo - 1562
+Sat Jan 14 14:03:08 2023 | SUCCESS | res.planet | Polis Massa | ID_SW - 15 | ID_Odoo - 1563
+Sat Jan 14 14:03:10 2023 | SUCCESS | res.planet | Mygeeto | ID_SW - 16 | ID_Odoo - 1564
+Sat Jan 14 14:03:12 2023 | SUCCESS | res.planet | Felucia | ID_SW - 17 | ID_Odoo - 1565
+Sat Jan 14 14:03:14 2023 | SUCCESS | res.planet | Cato Neimoidia | ID_SW - 18 | ID_Odoo - 1566
+Sat Jan 14 14:03:16 2023 | SUCCESS | res.planet | Saleucami | ID_SW - 19 | ID_Odoo - 1567
+Sat Jan 14 14:03:19 2023 | SUCCESS | res.planet | Stewjon | ID_SW - 20 | ID_Odoo - 1568
+Sat Jan 14 14:03:21 2023 | SUCCESS | res.planet | Eriadu | ID_SW - 21 | ID_Odoo - 1569
+Sat Jan 14 14:03:23 2023 | SUCCESS | res.planet | Corellia | ID_SW - 22 | ID_Odoo - 1570
+Sat Jan 14 14:03:25 2023 | SUCCESS | res.planet | Rodia | ID_SW - 23 | ID_Odoo - 1571
+Sat Jan 14 14:03:27 2023 | SUCCESS | res.planet | Nal Hutta | ID_SW - 24 | ID_Odoo - 1572
+Sat Jan 14 14:03:29 2023 | SUCCESS | res.planet | Dantooine | ID_SW - 25 | ID_Odoo - 1573
+Sat Jan 14 14:03:32 2023 | SUCCESS | res.planet | Bestine IV | ID_SW - 26 | ID_Odoo - 1574
+Sat Jan 14 14:03:34 2023 | SUCCESS | res.planet | Ord Mantell | ID_SW - 27 | ID_Odoo - 1575
+Sat Jan 14 14:03:36 2023 | SUCCESS | res.planet | unknown | ID_SW - 28 | ID_Odoo - 1576
+Sat Jan 14 14:03:38 2023 | SUCCESS | res.planet | Trandosha | ID_SW - 29 | ID_Odoo - 1577
+Sat Jan 14 14:03:40 2023 | SUCCESS | res.planet | Socorro | ID_SW - 30 | ID_Odoo - 1578
+Sat Jan 14 14:03:42 2023 | SUCCESS | res.planet | Mon Cala | ID_SW - 31 | ID_Odoo - 1579
+Sat Jan 14 14:03:45 2023 | SUCCESS | res.planet | Chandrila | ID_SW - 32 | ID_Odoo - 1580
+Sat Jan 14 14:03:47 2023 | SUCCESS | res.planet | Sullust | ID_SW - 33 | ID_Odoo - 1581
+Sat Jan 14 14:03:49 2023 | SUCCESS | res.planet | Toydaria | ID_SW - 34 | ID_Odoo - 1582
+Sat Jan 14 14:03:51 2023 | SUCCESS | res.planet | Malastare | ID_SW - 35 | ID_Odoo - 1583
+Sat Jan 14 14:03:53 2023 | SUCCESS | res.planet | Dathomir | ID_SW - 36 | ID_Odoo - 1584
+Sat Jan 14 14:03:55 2023 | SUCCESS | res.planet | Ryloth | ID_SW - 37 | ID_Odoo - 1585
+Sat Jan 14 14:03:57 2023 | SUCCESS | res.planet | Aleen Minor | ID_SW - 38 | ID_Odoo - 1586
+Sat Jan 14 14:04:00 2023 | SUCCESS | res.planet | Vulpter | ID_SW - 39 | ID_Odoo - 1587
+Sat Jan 14 14:04:02 2023 | SUCCESS | res.planet | Troiken | ID_SW - 40 | ID_Odoo - 1588
+Sat Jan 14 14:04:04 2023 | SUCCESS | res.planet | Tund | ID_SW - 41 | ID_Odoo - 1589
+Sat Jan 14 14:04:06 2023 | SUCCESS | res.planet | Haruun Kal | ID_SW - 42 | ID_Odoo - 1590
+Sat Jan 14 14:04:08 2023 | SUCCESS | res.planet | Cerea | ID_SW - 43 | ID_Odoo - 1591
+Sat Jan 14 14:04:10 2023 | SUCCESS | res.planet | Glee Anselm | ID_SW - 44 | ID_Odoo - 1592
+Sat Jan 14 14:04:13 2023 | SUCCESS | res.planet | Iridonia | ID_SW - 45 | ID_Odoo - 1593
+Sat Jan 14 14:04:15 2023 | SUCCESS | res.planet | Tholoth | ID_SW - 46 | ID_Odoo - 1594
+Sat Jan 14 14:04:17 2023 | SUCCESS | res.planet | Iktotch | ID_SW - 47 | ID_Odoo - 1595
+Sat Jan 14 14:04:19 2023 | SUCCESS | res.planet | Quermia | ID_SW - 48 | ID_Odoo - 1596
+Sat Jan 14 14:04:21 2023 | SUCCESS | res.planet | Dorin | ID_SW - 49 | ID_Odoo - 1597
+Sat Jan 14 14:04:23 2023 | SUCCESS | res.planet | Champala | ID_SW - 50 | ID_Odoo - 1598
+Sat Jan 14 14:04:25 2023 | SUCCESS | res.planet | Mirial | ID_SW - 51 | ID_Odoo - 1599
+Sat Jan 14 14:04:28 2023 | SUCCESS | res.planet | Serenno | ID_SW - 52 | ID_Odoo - 1600
+Sat Jan 14 14:04:30 2023 | SUCCESS | res.planet | Concord Dawn | ID_SW - 53 | ID_Odoo - 1601
+Sat Jan 14 14:04:32 2023 | SUCCESS | res.planet | Zolan | ID_SW - 54 | ID_Odoo - 1602
+Sat Jan 14 14:04:34 2023 | SUCCESS | res.planet | Ojom | ID_SW - 55 | ID_Odoo - 1603
+Sat Jan 14 14:04:36 2023 | SUCCESS | res.planet | Skako | ID_SW - 56 | ID_Odoo - 1604
+Sat Jan 14 14:04:38 2023 | SUCCESS | res.planet | Muunilinst | ID_SW - 57 | ID_Odoo - 1605
+Sat Jan 14 14:04:40 2023 | SUCCESS | res.planet | Shili | ID_SW - 58 | ID_Odoo - 1606
+Sat Jan 14 14:04:43 2023 | SUCCESS | res.planet | Kalee | ID_SW - 59 | ID_Odoo - 1607
+Sat Jan 14 14:04:45 2023 | SUCCESS | res.planet | Umbara | ID_SW - 60 | ID_Odoo - 1608
+Sat Jan 14 14:04:47 2023 | SUCCESS | res.partner | C-3PO | ID_SW - 2 | ID_Odoo - 224
+Sat Jan 14 14:04:49 2023 | SUCCESS | res.partner | Luke Skywalker | ID_SW - 1 | ID_Odoo - 225
+Sat Jan 14 14:04:51 2023 | SUCCESS | res.partner | R2-D2 | ID_SW - 3 | ID_Odoo - 226
+Sat Jan 14 14:04:54 2023 | SUCCESS | res.partner | Darth Vader | ID_SW - 4 | ID_Odoo - 227
+Sat Jan 14 14:04:56 2023 | SUCCESS | res.partner | Leia Organa | ID_SW - 5 | ID_Odoo - 228
+Sat Jan 14 14:04:58 2023 | SUCCESS | res.partner | R5-D4 | ID_SW - 8 | ID_Odoo - 229
+Sat Jan 14 14:05:00 2023 | SUCCESS | res.partner | Owen Lars | ID_SW - 6 | ID_Odoo - 230
+Sat Jan 14 14:05:03 2023 | SUCCESS | res.partner | Beru Whitesun lars | ID_SW - 7 | ID_Odoo - 231
+Sat Jan 14 14:05:05 2023 | SUCCESS | res.partner | Wilhuff Tarkin | ID_SW - 12 | ID_Odoo - 232
+Sat Jan 14 14:05:07 2023 | SUCCESS | res.partner | Anakin Skywalker | ID_SW - 11 | ID_Odoo - 233
+Sat Jan 14 14:05:09 2023 | SUCCESS | res.partner | Biggs Darklighter | ID_SW - 9 | ID_Odoo - 234
+Sat Jan 14 14:05:12 2023 | SUCCESS | res.partner | Obi-Wan Kenobi | ID_SW - 10 | ID_Odoo - 235
+Sat Jan 14 14:05:14 2023 | SUCCESS | res.partner | Chewbacca | ID_SW - 13 | ID_Odoo - 236
+Sat Jan 14 14:05:16 2023 | SUCCESS | res.partner | Greedo | ID_SW - 15 | ID_Odoo - 237
+Sat Jan 14 14:05:18 2023 | SUCCESS | res.partner | Han Solo | ID_SW - 14 | ID_Odoo - 238
+Sat Jan 14 14:05:21 2023 | SUCCESS | res.partner | Jabba Desilijic Tiure | ID_SW - 16 | ID_Odoo - 239
+Sat Jan 14 14:05:23 2023 | SUCCESS | res.partner | Jek Tono Porkins | ID_SW - 19 | ID_Odoo - 240
+Sat Jan 14 14:05:25 2023 | SUCCESS | res.partner | Wedge Antilles | ID_SW - 18 | ID_Odoo - 241
+Sat Jan 14 14:05:27 2023 | SUCCESS | res.partner | Palpatine | ID_SW - 21 | ID_Odoo - 242
+Sat Jan 14 14:05:30 2023 | SUCCESS | res.partner | Yoda | ID_SW - 20 | ID_Odoo - 243
+Sat Jan 14 14:05:32 2023 | SUCCESS | res.partner | Bossk | ID_SW - 24 | ID_Odoo - 244
+Sat Jan 14 14:05:34 2023 | SUCCESS | res.partner | Lando Calrissian | ID_SW - 25 | ID_Odoo - 245
+Sat Jan 14 14:05:36 2023 | SUCCESS | res.partner | IG-88 | ID_SW - 23 | ID_Odoo - 246
+Sat Jan 14 14:05:39 2023 | SUCCESS | res.partner | Boba Fett | ID_SW - 22 | ID_Odoo - 247
+Sat Jan 14 14:05:41 2023 | SUCCESS | res.partner | Mon Mothma | ID_SW - 28 | ID_Odoo - 248
+Sat Jan 14 14:05:43 2023 | SUCCESS | res.partner | Ackbar | ID_SW - 27 | ID_Odoo - 249
+Sat Jan 14 14:05:45 2023 | SUCCESS | res.partner | Arvel Crynyd | ID_SW - 29 | ID_Odoo - 250
+Sat Jan 14 14:05:48 2023 | SUCCESS | res.partner | Lobot | ID_SW - 26 | ID_Odoo - 251
+Sat Jan 14 14:05:50 2023 | SUCCESS | res.partner | Nien Nunb | ID_SW - 31 | ID_Odoo - 252
+Sat Jan 14 14:05:52 2023 | SUCCESS | res.partner | Qui-Gon Jinn | ID_SW - 32 | ID_Odoo - 253
+Sat Jan 14 14:05:54 2023 | SUCCESS | res.partner | Wicket Systri Warrick | ID_SW - 30 | ID_Odoo - 254
+Sat Jan 14 14:05:57 2023 | SUCCESS | res.partner | Nute Gunray | ID_SW - 33 | ID_Odoo - 255
+Sat Jan 14 14:05:59 2023 | SUCCESS | res.partner | Finis Valorum | ID_SW - 34 | ID_Odoo - 256
+Sat Jan 14 14:06:01 2023 | SUCCESS | res.partner | Padmé Amidala | ID_SW - 35 | ID_Odoo - 257
+Sat Jan 14 14:06:03 2023 | SUCCESS | res.partner | Jar Jar Binks | ID_SW - 36 | ID_Odoo - 258
+Sat Jan 14 14:06:06 2023 | SUCCESS | res.partner | Roos Tarpals | ID_SW - 37 | ID_Odoo - 259
+Sat Jan 14 14:06:08 2023 | SUCCESS | res.partner | Watto | ID_SW - 40 | ID_Odoo - 260
+Sat Jan 14 14:06:10 2023 | SUCCESS | res.partner | Sebulba | ID_SW - 41 | ID_Odoo - 261
+Sat Jan 14 14:06:12 2023 | SUCCESS | res.partner | Ric Olié | ID_SW - 39 | ID_Odoo - 262
+Sat Jan 14 14:06:15 2023 | SUCCESS | res.partner | Rugor Nass | ID_SW - 38 | ID_Odoo - 263
+Sat Jan 14 14:06:17 2023 | SUCCESS | res.partner | Darth Maul | ID_SW - 44 | ID_Odoo - 264
+Sat Jan 14 14:06:19 2023 | SUCCESS | res.partner | Quarsh Panaka | ID_SW - 42 | ID_Odoo - 265
+Sat Jan 14 14:06:21 2023 | SUCCESS | res.partner | Bib Fortuna | ID_SW - 45 | ID_Odoo - 266
+Sat Jan 14 14:06:24 2023 | SUCCESS | res.partner | Shmi Skywalker | ID_SW - 43 | ID_Odoo - 267
+Sat Jan 14 14:06:26 2023 | SUCCESS | res.partner | Ratts Tyerel | ID_SW - 47 | ID_Odoo - 268
+Sat Jan 14 14:06:28 2023 | SUCCESS | res.partner | Ayla Secura | ID_SW - 46 | ID_Odoo - 269
+Sat Jan 14 14:06:30 2023 | SUCCESS | res.partner | Dud Bolt | ID_SW - 48 | ID_Odoo - 270
+Sat Jan 14 14:06:33 2023 | SUCCESS | res.partner | Gasgano | ID_SW - 49 | ID_Odoo - 271
+Sat Jan 14 14:06:35 2023 | SUCCESS | res.partner | Ben Quadinaros | ID_SW - 50 | ID_Odoo - 272
+Sat Jan 14 14:06:37 2023 | SUCCESS | res.partner | Mace Windu | ID_SW - 51 | ID_Odoo - 273
+Sat Jan 14 14:06:39 2023 | SUCCESS | res.partner | Ki-Adi-Mundi | ID_SW - 52 | ID_Odoo - 274
+Sat Jan 14 14:06:41 2023 | SUCCESS | res.partner | Kit Fisto | ID_SW - 53 | ID_Odoo - 275
+Sat Jan 14 14:06:44 2023 | SUCCESS | res.partner | Adi Gallia | ID_SW - 55 | ID_Odoo - 276
+Sat Jan 14 14:06:46 2023 | SUCCESS | res.partner | Yarael Poof | ID_SW - 57 | ID_Odoo - 277
+Sat Jan 14 14:06:48 2023 | SUCCESS | res.partner | Eeth Koth | ID_SW - 54 | ID_Odoo - 278
+Sat Jan 14 14:06:50 2023 | SUCCESS | res.partner | Saesee Tiin | ID_SW - 56 | ID_Odoo - 279
+Sat Jan 14 14:06:53 2023 | SUCCESS | res.partner | Mas Amedda | ID_SW - 59 | ID_Odoo - 280
+Sat Jan 14 14:06:55 2023 | SUCCESS | res.partner | Gregar Typho | ID_SW - 60 | ID_Odoo - 281
+Sat Jan 14 14:06:57 2023 | SUCCESS | res.partner | Plo Koon | ID_SW - 58 | ID_Odoo - 282
+Sat Jan 14 14:06:59 2023 | SUCCESS | res.partner | Cordé | ID_SW - 61 | ID_Odoo - 283
+Sat Jan 14 14:07:02 2023 | SUCCESS | res.partner | Poggle the Lesser | ID_SW - 63 | ID_Odoo - 284
+Sat Jan 14 14:07:04 2023 | SUCCESS | res.partner | Luminara Unduli | ID_SW - 64 | ID_Odoo - 285
+Sat Jan 14 14:07:06 2023 | SUCCESS | res.partner | Cliegg Lars | ID_SW - 62 | ID_Odoo - 286
+Sat Jan 14 14:07:08 2023 | SUCCESS | res.partner | Barriss Offee | ID_SW - 65 | ID_Odoo - 287
+Sat Jan 14 14:07:11 2023 | SUCCESS | res.partner | Bail Prestor Organa | ID_SW - 68 | ID_Odoo - 288
+Sat Jan 14 14:07:13 2023 | SUCCESS | res.partner | Jango Fett | ID_SW - 69 | ID_Odoo - 289
+Sat Jan 14 14:07:15 2023 | SUCCESS | res.partner | Dooku | ID_SW - 67 | ID_Odoo - 290
+Sat Jan 14 14:07:17 2023 | SUCCESS | res.partner | Dormé | ID_SW - 66 | ID_Odoo - 291
+Sat Jan 14 14:07:20 2023 | SUCCESS | res.partner | Dexter Jettster | ID_SW - 71 | ID_Odoo - 292
+Sat Jan 14 14:07:22 2023 | SUCCESS | res.partner | Lama Su | ID_SW - 72 | ID_Odoo - 293
+Sat Jan 14 14:07:24 2023 | SUCCESS | res.partner | Zam Wesell | ID_SW - 70 | ID_Odoo - 294
+Sat Jan 14 14:07:26 2023 | SUCCESS | res.partner | Taun We | ID_SW - 73 | ID_Odoo - 295
+Sat Jan 14 14:07:29 2023 | SUCCESS | res.partner | San Hill | ID_SW - 77 | ID_Odoo - 296
+Sat Jan 14 14:07:31 2023 | SUCCESS | res.partner | Wat Tambor | ID_SW - 76 | ID_Odoo - 297
+Sat Jan 14 14:07:33 2023 | SUCCESS | res.partner | Jocasta Nu | ID_SW - 74 | ID_Odoo - 298
+Sat Jan 14 14:07:35 2023 | SUCCESS | res.partner | R4-P17 | ID_SW - 75 | ID_Odoo - 299
+Sat Jan 14 14:07:37 2023 | SUCCESS | res.partner | Shaak Ti | ID_SW - 78 | ID_Odoo - 300
+Sat Jan 14 14:07:40 2023 | SUCCESS | res.partner | Tarfful | ID_SW - 80 | ID_Odoo - 301
+Sat Jan 14 14:07:42 2023 | SUCCESS | res.partner | Raymus Antilles | ID_SW - 81 | ID_Odoo - 302
+Sat Jan 14 14:07:44 2023 | SUCCESS | res.partner | Grievous | ID_SW - 79 | ID_Odoo - 303
+Sat Jan 14 14:07:46 2023 | SUCCESS | res.partner | Sly Moore | ID_SW - 82 | ID_Odoo - 304
+Sat Jan 14 14:07:49 2023 | SUCCESS | res.partner | Tion Medon | ID_SW - 83 | ID_Odoo - 305
